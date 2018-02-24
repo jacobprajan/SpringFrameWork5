@@ -9,6 +9,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
+
 	<name>di-demo-with-spring-profiles</name>
 	<description>Demo of DI options in Spring</description>
 
