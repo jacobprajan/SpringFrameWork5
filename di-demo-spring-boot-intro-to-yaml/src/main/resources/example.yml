@@ -1,0 +1,39 @@
+# this is a comment
+
+name: Jakez
+
+names: # comment
+    - Max
+    - Paul
+    - John
+
+pound_sign: "#"
+
+book:
+    author: Joe
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_lines: |  #will include all lines
+   assf asdf asfas
+   aad ddfdf dsds
+   asa fddg asasa
+
+ignore_new_lines: >
+   this is
+   just one long
+   string
+
+
+
