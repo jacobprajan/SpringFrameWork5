@@ -1,0 +1,15 @@
+dev:
+  jms:
+    username: Jms Username
+    password: Jmspass
+    url: Jmssafdfdfd
+
+
+--- # 3 dashes is file separator for yaml
+
+spring:
+  profiles: de
+
+dev:
+  jms:
+    username: Jms Username £$%^££^$
